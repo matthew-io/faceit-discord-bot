@@ -1,7 +1,7 @@
 ![Imgur Image](https://i.imgur.com/xsM7d4Y.png)
 
 <h1>
-Usage
+Installation
 </h1>
 
 1. Navigate to the directory you extracted the zip to using the command prompt, then run "npm install" to download all of the dependencies.
@@ -11,7 +11,7 @@ Usage
 3. Run "node bot.js" in the command prompt.
 
 <h1>
-Command
+Usage
 </h1>
 
 1. !faceit *username*
