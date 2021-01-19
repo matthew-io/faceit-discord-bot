@@ -1,4 +1,4 @@
-<img src=url('https://imgur.com/a/xRQKQDF')></img>
+![alt text](https://imgur.com/a/xRQKQDF)
 
 <h1>
 Usage
