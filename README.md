@@ -1,1 +1,3 @@
-"# faceit-discord-bot" 
+<h1>
+Usage
+</h1>
