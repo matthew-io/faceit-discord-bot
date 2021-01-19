@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/xRQKQDF)
+![Imgur Image](http://i.imgur.com/zTONrOD.jpg)
 
 <h1>
 Usage
