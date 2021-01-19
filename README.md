@@ -1,4 +1,4 @@
-<img src=url('https://imgur.com/a/xRQKQDF')
+<img src=url('https://imgur.com/a/xRQKQDF')></img>
 
 <h1>
 Usage
